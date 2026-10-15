@@ -1,0 +1,23 @@
+name: newcomer-navigator
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - pip
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - scikit-learn
+  - requests
+  - beautifulsoup4
+  - pypdf
+  - python-dotenv
+  - pytest
+  - pip:
+      - torch==2.13.0
+      - sentence-transformers
+      - chromadb
+      - openai
