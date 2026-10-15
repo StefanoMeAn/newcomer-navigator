@@ -1,0 +1,4 @@
+source_id,title_original,title_english,authority,jurisdiction,procedure,source_language,url,date_checked,status
+PADOVA_RESIDENCE,Iscrizione anagrafica per cittadini di Stato terzo,Residence registration for non-EU citizens,Comune di Padova,Comune di Padova,residence registration,Italian,https://www.comune.padova.it/servizi/anagrafe-e-stato-civile/cittadine-e-cittadini-di-stato-terzo-non-appartenenti-allunione,2026-10-15,needs_review
+PADOVA_CIE,Carta d'identità elettronica - CIE 3.0,Electronic Identity Card (CIE),Comune di Padova,Comune di Padova,CIE,Italian,https://www.comune.padova.it/carta-didentita-elettronica-cie-30,2026-10-15,needs_review
+INPS_ISEE,Portale unico ISEE,ISEE portal,INPS,Italy,ISEE,Italian,https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.Portale-unico-ISEE.html,2026-10-15,needs_review
